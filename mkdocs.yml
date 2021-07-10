@@ -1,0 +1,24 @@
+site_name: Build NNEZ Wiki
+site_url: https://example.com/
+nav:
+    # - Home: 'index.md'
+
+    # - Home: index.md
+    # - About: about.md
+  - 简介:
+    - 快速开始: index.md
+    - 参与活动: intro/htc.md
+    - 服务器规则: intro/rule.md
+    - F.A.Q: intro/faq.md
+  - 活动:
+    - '2021暑假': events/2021h3.md
+    - '2021春节': events/2021h2.md
+    - '2021元旦': events/2021h1.md
+  - 关于:
+    - 测绘: about/mapping.md
+    - 建筑: about/building.md
+    - 内饰: about/decoration.md
+theme:
+  name: material
+  # feature:
+    # tabs: true
