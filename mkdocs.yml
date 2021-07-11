@@ -11,14 +11,28 @@ nav:
     - 服务器规则: intro/rule.md
     - F.A.Q: intro/faq.md
   - 活动:
-    - '2021暑假': events/2021h3.md
-    - '2021春节': events/2021h2.md
-    - '2021元旦': events/2021h1.md
+    - '2021暑假': events/2021-summer-holiday.md
+    - '2021春节': events/2021-spring-festival.md
+    - '2021元旦': events/2021-new-year.md
+    - '2020暑假': events/2020-summer-holiday.md
   - 关于:
-    - 测绘: about/mapping.md
-    - 建筑: about/building.md
-    - 内饰: about/decoration.md
+    - 建设:
+      - 测绘: about/construct/mapping.md
+      - 建筑: about/construct/building.md
+      - 内饰: about/construct/decoration.md
+    - 加入我们:
+      - 建造者: about/joinus/builder.md
+      - 技术员: about/joinus/technician.md
 theme:
   name: material
-  # feature:
-    # tabs: true
+  features:
+    - navigation.tabs
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
