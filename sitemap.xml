@@ -2,52 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/about/building/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <loc>https://example.com/about/construct/building/</loc>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/about/decoration/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <loc>https://example.com/about/construct/decoration/</loc>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/about/mapping/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <loc>https://example.com/about/construct/mapping/</loc>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/events/2021h1/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <loc>https://example.com/about/joinus/builder/</loc>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/events/2021h2/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <loc>https://example.com/about/joinus/technician/</loc>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/events/2021h3/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <loc>https://example.com/events/2020-summer-holiday/</loc>
+         <lastmod>2021-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/events/2021-new-year/</loc>
+         <lastmod>2021-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/events/2021-spring-festival/</loc>
+         <lastmod>2021-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/events/2021-summer-holiday/</loc>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/intro/faq/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/intro/htc/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/intro/rule/</loc>
-         <lastmod>2021-07-10</lastmod>
+         <lastmod>2021-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
